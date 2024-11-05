@@ -12,7 +12,7 @@ In this project, we analyze IBM employee data to:
 ## Objectives
 - **Data Cleaning**: Handle missing values and prepare data.
 - **Exploratory Data Analysis (EDA)**: Examine critical features.
-- **Visualization**: Generate insights with Python visualizations.
+- **Dashboard**: Generate insights with Python visualizations.
 
 ## Key Files
 - **`IBM_HR_Analytics_EDA.ipynb`**: Jupyter Notebook for data analysis and visualization.
