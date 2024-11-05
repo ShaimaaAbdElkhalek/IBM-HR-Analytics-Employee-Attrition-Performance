@@ -1,5 +1,5 @@
 # IBM HR Analytics: Employee Attrition & Performance Analysis
-![Employee Attrition Analysis](https://github.com/ShaimaaAbdElkhalek/IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/download.jpeg?raw=true)
+![Employee Attrition Analysis](https://github.com/ShaimaaAbdElkhalek/IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/images.jpeg?raw=true)
 
 
 Welcome to the **IBM HR Analytics** project, exploring factors influencing employee attrition and performance metrics to gain insights.
